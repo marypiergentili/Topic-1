@@ -1,4 +1,4 @@
-package bootcamp;
+package com.bootcamp.java;
 
 import static org.junit.Assert.*;
 
@@ -16,3 +16,4 @@ public class JUnitTest {
 
 	}
 }
+

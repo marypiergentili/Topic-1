@@ -1,4 +1,4 @@
-package bootcamp;
+package com.bootcamp.java;
 
 public class SingletonExample {
 	
